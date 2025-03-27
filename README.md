@@ -22,4 +22,4 @@ Quick breakdown of the model’s results:
 ### Summary & Recommendation  
 The model was on point when it came to catching healthy loans. Most high-risk loans were caught too, though it missed a few. Still, performance was strong overall.
 
-Recommend using the model as an extra layer of review. It can help spot patterns fast, but decisions should still get a final check from a person—especially when high-risk loans are involved.
+The logistic regression model crushed it on accuracy and recall. It flagged healthy loans almost perfectly and did a solid job picking up on high-risk ones too. Precision for risky loans wasn't perfect, but still strong enough to trust in a fast-paced workflow. Would definitely recommend the model for the company. It can help speed up decisions without losing much reliability. Human review should still back it up, but this model gives a solid head start when spotting loan risks early.
